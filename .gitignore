@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#secret keys and password
+/schoolmanagement/settings_secret.py
+
+#pycharm files
+/schoolmanagement/.idea/
